@@ -113,20 +113,6 @@
     },
     {
         "Estado": "activa",
-        "SKU": "103434505",
-        "Nombre": "STUDIO FIX FLUID SPF 15 FOUNDATION NC 27",
-        "Descuento": "40%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/5040742-100-100\/103434505-1.jpg",
-        "url": "https:\/\/sv.siman.com\/studio-fix-fluid-spf-15-foundation-nc-27-103434505\/p",
-        "Pais": "SV",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602531844",
-        "Precio_regular": "52",
-        "Precio_promocion": "31.2"
-    },
-    {
-        "Estado": "activa",
         "SKU": "100878735",
         "Nombre": "PRO LONGWEAR NOURISHING WATERPROOF FOUNDATION NW18",
         "Descuento": "50%",
@@ -180,34 +166,6 @@
         "\"ID\"": "773602440795",
         "Precio_regular": "52",
         "Precio_promocion": "26"
-    },
-    {
-        "Estado": "activa",
-        "SKU": "101378333",
-        "Nombre": "EYES X 9-BURGUNDY TIMES NINE 5.85GM",
-        "Descuento": "50%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/951226-100-100\/101378333_1.jpg",
-        "url": "https:\/\/sv.siman.com\/eye-shadow-x-9-burgundy-times-nine-101378333\/p",
-        "Pais": "SV",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602510450",
-        "Precio_regular": "43",
-        "Precio_promocion": "21.5"
-    },
-    {
-        "Estado": "activa",
-        "SKU": "101378322",
-        "Nombre": "EYES X 9-AMBER TIMES NINE 5.85GM",
-        "Descuento": "50%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/951227-100-100\/101378322_1.jpg",
-        "url": "https:\/\/sv.siman.com\/eye-shadow-x-9-burgundy-times-nine-101378333\/p",
-        "Pais": "SV",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602510443",
-        "Precio_regular": "43",
-        "Precio_promocion": "21.5"
     },
     {
         "Estado": "activa",
@@ -323,20 +281,6 @@
     },
     {
         "Estado": "activa",
-        "SKU": "103434505",
-        "Nombre": "STUDIO FIX FLUID SPF 15 FOUNDATION NC 27",
-        "Descuento": "40%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/5040742-100-100\/103434505-1.jpg",
-        "url": "https:\/\/sv.siman.com\/studio-fix-fluid-spf-15-foundation-nc-27-103434505\/p",
-        "Pais": "GT",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602531844",
-        "Precio_regular": "415",
-        "Precio_promocion": "249"
-    },
-    {
-        "Estado": "activa",
         "SKU": "100878735",
         "Nombre": "PRO LONGWEAR NOURISHING WATERPROOF FOUNDATION NW18",
         "Descuento": "50%",
@@ -390,34 +334,6 @@
         "\"ID\"": "773602440795",
         "Precio_regular": "52",
         "Precio_promocion": "26"
-    },
-    {
-        "Estado": "activa",
-        "SKU": "101378333",
-        "Nombre": "EYES X 9-BURGUNDY TIMES NINE 5.85GM",
-        "Descuento": "50%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/951226-100-100\/101378333_1.jpg",
-        "url": "https:\/\/sv.siman.com\/eye-shadow-x-9-burgundy-times-nine-101378333\/p",
-        "Pais": "GT",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602510450",
-        "Precio_regular": "43",
-        "Precio_promocion": "21.5"
-    },
-    {
-        "Estado": "activa",
-        "SKU": "101378322",
-        "Nombre": "EYES X 9-AMBER TIMES NINE 5.85GM",
-        "Descuento": "50%",
-        "img": "https:\/\/siman.vtexcommercestable.com.br\/arquivos\/ids\/951227-100-100\/101378322_1.jpg",
-        "url": "https:\/\/sv.siman.com\/eye-shadow-x-9-burgundy-times-nine-101378333\/p",
-        "Pais": "GT",
-        "Fecha_inicio": "2\/26\/2023",
-        "Fecha_fin": "1\/31\/2024",
-        "\"ID\"": "773602510443",
-        "Precio_regular": "43",
-        "Precio_promocion": "21.5"
     },
     {
         "Estado": "activa",
